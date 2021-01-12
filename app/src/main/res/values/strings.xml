@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignInScreen</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">password</string>
+    <string name="email_or_username">email or username</string>
+    <string name="because_you_re_worth_it">Because You\'re Worth It.</string>
+</resources>
